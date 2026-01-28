@@ -30,7 +30,7 @@ This project focuses on **automation, clean data flow, and passive consistency t
 ## 📱 Widget Preview
 
 > Screenshot of the live widget on home screen  
-![LeetCode Widget Preview](widget-preview.jpeg)
+![LeetCode Widget Preview](Widget_Preview.jpeg)
 
 ---
 
